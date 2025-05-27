@@ -4,7 +4,7 @@
 
 ## Requirmenets:
 - Intall jq package (for linux)
-- Python3.12
+- Python3.8
 - Pytorch=='2.6.0'
 - Numpy=='2.2.1'
 - Sklearn
